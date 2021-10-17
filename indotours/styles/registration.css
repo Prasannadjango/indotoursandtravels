@@ -1,0 +1,42 @@
+
+
+h1
+{
+	font-family: 'Times New Roman', serif;
+	font-weight: bolder;
+    color: snow;
+}
+
+
+form
+{
+
+    width: 500px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    border-radius: 10px;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: rgba(0, 0, 0, .5);
+
+}
+
+.submitbutton
+{
+    width: 120px;
+    height: 50px;
+    background-color: #2a489c;
+    color: snow;
+    margin-left: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+}
+
+.submitbutton:hover
+{
+    background-color: transparent;
+
+}
